@@ -9,7 +9,7 @@
 
 # Getting Started
 
-1. Download dll from github release page: [Download]([URL or file path goes here](https://github.com/sandichhuu/UwU.AspNetCore.SimpleAuth/releases/tag/stable))
+1. Download dll from github release page: [Download](https://github.com/sandichhuu/UwU.AspNetCore.SimpleAuth/releases/tag/stable)
 2. Put downloaded dll file on project folder.
 3. Import/References dll to ASP.NET Web API project.
 - Right click on project **Dependencies**, choose **Add Project Reference...**.
