@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Samples/">
+    <Project Path="signalr_client/signalr_client.csproj" Id="915897ec-987c-43bb-ba55-acfcd621f93e" />
+    <Project Path="signalr_service/signalr_service.csproj" Id="d8c8a15a-aa0e-48aa-9d31-757db8fbb2d4" />
+  </Folder>
+  <Project Path="UwU.AspNetCore.SimpleAuth/UwU.AspNetCore.SimpleAuth.csproj" Id="fcda3dd4-97cd-4c96-a1ba-23792677cd58" />
+</Solution>
